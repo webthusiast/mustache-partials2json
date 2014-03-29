@@ -1,14 +1,3 @@
-# Usage:
-#     $ coffee test.coffee file.html
-#     {
-#         "file.html": "<content of file.html>"
-#     }
-#     $ coffee test.coffee content=file.html
-#     {
-#         "content": "<content of file.html>"
-#     }
-
-
 fs = require 'fs'
 path = require 'path'
 Mustache = require 'mustache'

@@ -1,4 +1,5 @@
 .DS_Store
 /bin/
-/mustache-partials2json-0.1.0.tgz
+/mustache-partials2json-*.tgz
+/package/
 /partials2json.js
