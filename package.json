@@ -1,6 +1,6 @@
 {
   "name": "mustache-partials2json",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "collect mustache partials into a json document",
   "main": "bin/partials2json.js",
   "scripts": {
