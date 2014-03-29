@@ -1,5 +1,6 @@
 .DS_Store
 /bin/
 /mustache-partials2json-*.tgz
+/node_modules/
 /package/
 /partials2json.js
