@@ -1,0 +1,24 @@
+{
+  "name": "mustache-partials2json",
+  "version": "1.0.0",
+  "description": "collect mustache partials into a json document",
+  "main": "partials2json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mustache",
+    "partials",
+    "cli",
+    "json"
+  ],
+  "author": "Roald de Vries",
+  "repository": "https://github.com/webthusiast/mustache-partials2json",
+  "license": "ISC",
+  "scripts": {
+    "prepublish": "make"
+  },
+  "bin": {
+    "partials2json": "bin/partials2json.js"
+  }
+}
