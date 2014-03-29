@@ -2,7 +2,7 @@
   "name": "mustache-partials2json",
   "version": "1.0.0",
   "description": "collect mustache partials into a json document",
-  "main": "partials2json.js",
+  "main": "bin/partials2json.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
